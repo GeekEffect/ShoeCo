@@ -9,7 +9,7 @@ namespace ShoeCompany.Controllers
     [ApiController]
     public class InventoryController : ControllerBase
     {
-        /// <summary>
+        /// <summary> 
         /// Retrieve the entire product inventory for the company.
         /// </summary>
         /// <returns></returns>
